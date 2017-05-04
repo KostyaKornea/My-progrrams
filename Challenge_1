@@ -1,0 +1,7 @@
+public class challenge_1 {
+public static void main(String[] args){
+String name="Constantin";
+int age=19 ;
+double annualPay=100;
+System.out.println("My name is  "  +name +" and my age is " +age);
+System.out.println("I hope to earn $" +annualPay);}}
